@@ -17,15 +17,15 @@ The CodSoft Web Development Internship provides hands-on experience with modern 
 This repository contains the following tasks categorized by level:
 
 ### 🔰 Level 1 Tasks
-| Task | Description | Live Demo |
-|------|-------------|-----------|
+| Task | Description | 
+|------|-------------|
 | Task 1 - Portfolio | A personal portfolio with About, Skills, Projects, Resume, and Contact sections. 
 | Task 2 - Landing Page | A creative landing page using only HTML and CSS. 
 | Task 3 - Calculator | A basic calculator using HTML, CSS, and JavaScript. 
 
 ### ⚙️ Level 2 Tasks
-| Task | Description | Live Demo |
-|------|-------------|-----------|
+| Task | Description | 
+|------|-------------|
 | Task 1 - Job Board | A job board website with employer/candidate dashboards, authentication, and listings. 
 | Task 2 - Quiz App | A quiz maker and taker platform with user auth and results analysis. 
 ### 🛒 Level 3 Tasks
@@ -34,7 +34,7 @@ This repository contains the following tasks categorized by level:
 | Task 1 - E-Commerce Website | An online store with cart, authentication, filtering, and checkout features. |
 | Task 2 - Project Management Tool | A tool for task tracking, team collaboration, and deadline management. |
 
-> Note: Level 3 project hosting is optional and may be updated later.
+
 
 ---
 
